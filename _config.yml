@@ -3,7 +3,8 @@ description: >
     Personal blog
 about: >
     Backend programmer at Oracle. I spend my free time reading  ML research papers, Deep-learning books and learning from youtube lectures. Interested in Quantum mechanics and Quantum computing. Former GSOC participant (2017) and regional finalist in ACM-ICPC (2016).Founded a startup in college and worked as CTO.Always like to talk about startups and technology.
-    master_repo: true
+
+master_repo: true
 url: "https://akshaynathr.github.io"
 markdown: kramdown
 highlighter: rouge
