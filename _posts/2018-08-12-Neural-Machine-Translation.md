@@ -15,4 +15,20 @@ Language translation is approximately 40Billion Dollars industry, which is growi
 
 You might be familiar with machine translation systems already. Google translate is one example. You must have also seen translation option in Instagram and Facebook also. 
 
-In this series of post , I plan to analyse machine learning techniques that helps in translation of texts. 
+In this series of post , I plan to analyse machine learning techniques that helps in translation of texts using neural networks.
+
+
+Sequence to Sequence Model.
+
+Sequence to Sequence model is one the highly successful neural net model used in Neural Machine translation.In short let's call it seq2seq model. 
+
+The basic intuition of the seq2seq model is to find the next sequence with highest probability.
+
+Just like CNN(Convolution Neural Network) is used for Image Recognition, RNN is the goto model when it comes to text generation.
+
+
+In seq2seq model , we having 2 RNN based units. 
+1)Encoder 
+2)Decoder
+
+Let's assume a usecase in which we want to translate a french sentence to English sentence.
