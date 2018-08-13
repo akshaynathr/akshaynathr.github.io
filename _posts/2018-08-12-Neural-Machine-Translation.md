@@ -18,7 +18,7 @@ You might be familiar with machine translation systems already. Google translate
 In this series of post , I plan to analyse machine learning techniques that helps in translation of texts using neural networks.
 
 
-Sequence to Sequence Model.
+## Sequence to Sequence Model.
 
 Sequence to Sequence model is one the highly successful neural net model used in Neural Machine translation.In short let's call it seq2seq model. 
 
